@@ -7,5 +7,6 @@ Passwords.txt contains a list of possible passwords. Program wil produce the ori
 Note: it can only find password that is inside Passwords.txt
 
 to run: python3 Rainbow.py Passwords.txt
+
 then enter hash value 
 
